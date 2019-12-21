@@ -2,7 +2,7 @@
 <addon
   id="service.kiss-sync"
   name="Keep It Simple Stupid Sync Client"
-  version="0.1"
+  version="0.2"
   provider-name="Elkasitu">
     <requires>
         <import addon="xbmc.python" version="2.26.0"/>
